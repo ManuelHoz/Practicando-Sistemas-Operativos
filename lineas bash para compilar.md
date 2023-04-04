@@ -1,0 +1,1 @@
+gcc hijo_que_muestra_su_id.c  && ./a.out
